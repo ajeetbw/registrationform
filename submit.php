@@ -16,3 +16,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     echo "<p><strong>Gender:</strong> $gender</p>";
 }
 ?>
+
